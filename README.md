@@ -32,7 +32,7 @@ Dataset" folder, which contains the "train" and "test" folders. The "run_analysi
 HAR Dataset" folder. The script requires the "plyr package" to be installed (it will automatically be loaded from the 
 script).
 
-All individual steps within the script are commented in the code (see "run_analysis"). In short it
+All individual steps within the script are commented in the code (see "run_analysis.R"). In short it
 (1) merges the training and the test sets to create one data set
 (2) appropriately labels the data set with descriptive variable names,
 (3) extracts only the measurements on the mean and standard deviation for each measurement,
