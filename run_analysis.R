@@ -37,7 +37,7 @@ run_analysis <- function (){
         #extract columns by vector "tidyval"
         tidyData <- train.test[, tidyval]
         rm(train.test)#to save work space
-        ##step 3: expand by "Subject" and "Activity" columns with 
+        ##step 3: expand by "Subject" and "Activity" columns
         Subject1 <- read.table("../UCI HAR Dataset/train/subject_train.txt")[,1]
         Subject2 <- read.table("../UCI HAR Dataset/test/subject_test.txt")[,1]
         tidyData$Subject <- c(Subject1, Subject2)
