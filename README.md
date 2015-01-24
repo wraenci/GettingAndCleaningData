@@ -2,7 +2,7 @@
 Repo for the course project (Coursera)
 
 This is a short description of "run_analysis.R"
------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------
 The function is defined for the "Human Activity Recognition Using Smartphones Dataset, Verion 1.0"
 provided by: 
 Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, Luca Oneto.
@@ -20,7 +20,8 @@ Any use of this dataset in publications must be acknowledged by referencing:
 Davide Anguita, Alessandro Ghio, Luca Oneto, Xavier Parra and Jorge L. Reyes-Ortiz. Human Activity Recognition on 
 Smartphones using a Multiclass Hardware-Friendly Support Vector Machine. International Workshop of Ambient Assisted 
 Living (IWAAL 2012). Vitoria-Gasteiz, Spain. Dec 2012.
------------------------------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------------------------
 The experiments have been carried out with a group of 30 volunteers of different ages (19-49 years) performing a couple 
 of activities (walking, walking upstairs, walking downstairs, sitting, standing, and laying) while wearing a smartphone
 on their waist that captured linear acceleration and angular velocity in 3 dimensions at a constant frequence.
