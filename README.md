@@ -25,7 +25,7 @@ Living (IWAAL 2012). Vitoria-Gasteiz, Spain. Dec 2012.
 The experiments have been carried out with a group of 30 volunteers of different ages (19-49 years) performing a couple 
 of activities (walking, walking upstairs, walking downstairs, sitting, standing, and laying) while wearing a smartphone
 on their waist that captured linear acceleration and angular velocity in 3 dimensions at a constant frequence.
-For more information about the data please see the corresponding README.
+For more information about the data please see the corresponding README that comes with the dataset.
 
 To run "run_analysis.R" you need to download the zip file from above and set your working directory to the "UCI HAR 
 Dataset" folder, which contains the "train" and "test" folders. The "run_analysis.R" script also goes into the "UCI 
